@@ -3,6 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="ch03_types/ch03_types.vcxproj" />
-  <Project Path="ch04_computation/ch04_computation.vcxproj" />
+  <Project Path="ch03_types/ch03_types.vcxproj" Id="b8cbba44-79f8-4413-bfba-0563f5338f03" />
+  <Project Path="ch04_computation/ch04_computation.vcxproj" Id="cb19a6aa-48be-40ca-8ffd-d45f0cdb9d4f" />
 </Solution>

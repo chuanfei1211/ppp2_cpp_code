@@ -13,9 +13,18 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="examples">
+      <UniqueIdentifier>{e6bccfd3-3077-4895-af4e-553acec61d39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="exercises">
+      <UniqueIdentifier>{a5d7ccca-8106-4d55-9f56-7d91d04a9bd4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch04_computation.cpp">
+    <ClCompile Include="exercises\4_5 习题_二次方程求根.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="examples\4_1 示例_单位转换.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
