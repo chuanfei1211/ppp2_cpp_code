@@ -18,11 +18,14 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="examples\5_1 示例_基本异常机制.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{cb19a6aa-48be-40ca-8ffd-d45f0cdb9d4f}</ProjectGuid>
-    <RootNamespace>ch04computation</RootNamespace>
+    <ProjectGuid>{6de57ae7-4963-4f0f-ae64-48645c2c0129}</ProjectGuid>
+    <RootNamespace>ch05errorhandling</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
