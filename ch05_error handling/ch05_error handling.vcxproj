@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="examples\5_1 示例_基本异常机制.cpp" />
+    <ClCompile Include="examples\5_2 示例_输入失败导致 cin 进入错误状态.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
