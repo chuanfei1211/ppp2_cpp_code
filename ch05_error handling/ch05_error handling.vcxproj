@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="examples\5_2 示例_输入失败导致 cin 进入错误状态.cpp" />
+    <ClCompile Include="examples\5_3 示例_自定义错误函数 error%28%29.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
